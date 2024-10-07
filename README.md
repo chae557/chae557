@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+영남대학교에 재학 중입니다.
+소프트웨어융합학과 2학년입니다.
+비 내리는 날씨를 좋아합니다.
+과일 중에서는 귤을 가장 좋아합니다.
+소설 읽는 것이 취미입니다.
+
 <!--
 **chae557/chae557** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
